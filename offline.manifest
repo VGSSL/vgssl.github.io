@@ -10,6 +10,7 @@ files\img\dumper
 files\img\enableupdate
 files\img\fakeusb
 files\img\ftp
+files\img\goldhen
 files\img\hen
 files\img\kerneldumper
 files\img\keydumper
@@ -22,6 +23,7 @@ files\js\enableupdate.js
 files\js\fakeusb.js
 files\js\final.js
 files\js\ftp.js
+files\js\goldhen.js
 files\js\info.js
 files\js\kerneldumper.js
 files\js\keydumper.js
